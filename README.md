@@ -241,16 +241,17 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 #### 📝 Prompt
 
 ```
-15秒赌场扑克牌飞行视频，黑桃K从性感女荷官手中飞出，以紧跟牌的视角穿越整个豪华赌场。
-镜头1：女荷官上半身特写，手持黑桃K，牌正面朝向镜头。
-镜头2：牌弹出瞬间，紧跟牌背面视角快速掠过赌桌区。
-镜头3：牌沿螺旋楼梯弧线轨迹上升。
-镜头4：牌高速直线穿越走廊。
-镜头5：牌从二楼俯冲进入大堂。
-镜头6：牌减速从玩家后方下面接近。
-镜头7：牌悄悄传递到手中，翻转展示黑桃K正面。
-镜头8：切回女荷官自信微笑特写。
-写实风格、电影级质感、高速摄影、运动模糊、戏剧性打光。
+15-second casino poker card flight. King of Spades flies from sexy female dealer,
+tight-follow card POV traversing the entire luxurious casino.
+Shot 1: Dealer close-up, holding King of Spades front facing camera.
+Shot 2: Card flicked out, tight-follow card back, smooth rotation past gaming tables.
+Shot 3: Card ascends along spiral staircase's curved trajectory.
+Shot 4: High-speed straight-line corridor traverse with motion blur.
+Shot 5: Card dives from second floor into lobby, wide-angle grand space.
+Shot 6: Card slows, approaching player from behind and below (low angle).
+Shot 7: Stealthily passed into hand, flips — King of Spades front facing camera.
+Shot 8: Quick cut back to dealer's confident smile. Warm lighting.
+Realistic style, cinematic texture, high-speed photography, dramatic lighting.
 ```
 
 <div align="center">
