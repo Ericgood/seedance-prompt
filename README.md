@@ -146,11 +146,18 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 #### 📝 Prompt
 
 ```
-镜头一：日常居家 时间段：0:00 至 0:02 中景手持跟拍，女孩穿蜡笔小新睡衣，拿纸望远镜
-对准镜头做转场。镜头二：时空隧道转场 0:02-0:04 深红漩涡虫洞效果，极速推进。
-镜头三：吸血姬降临 0:04-0:06 白发精灵耳白色华服，慢动作红色花瓣飘落。
-镜头四：魅惑定格 0:06-0:09 Glitch故障风、径向模糊、高饱和红色背景。
-镜头五：血月飞翔 0:09-0:12 恶魔双翼悬浮夜空，巨大血月背景。
+Shot One: Everyday Home Scene (0:00-0:02) Medium shot handheld follow-cam. Girl in
+Crayon Shin-chan pajamas with bear hairband waves a paper telescope, then presses it
+against the lens — physical darkness creates transition.
+Shot Two: Spacetime Tunnel (0:02-0:04) First-person rapid push-in through the paper
+tube. Deep red vortex and wormhole CG effects, bats fly out as guides.
+Shot Three: Vampire Princess Descends (0:04-0:06) Overhead to medium shot. Transformed
+princess (white hair, elven ears, ornate gown, red nails) extends hand toward lens.
+Slow-motion red petals, Gothic branches background.
+Shot Four: Alluring Freeze-Frame (0:06-0:09) Glitch effects, frame-skipping, radial
+blur, high-saturation red background. Cyberpunk vibes.
+Shot Five: Blood Moon Flight (0:09-0:12) Long shot. Massive demonic wings, blood moon,
+dark red clouds, bats in slow-motion flight.
 ```
 
 <div align="center">
