@@ -1,5 +1,24 @@
 [
   {
+    "id": "motion-design-sequence",
+    "title": "Ultra-Sleek Motion Design Sequence — 15s Brand Identity",
+    "title_zh": "极致动态设计序列 — 15秒品牌识别",
+    "prompt": "Ultra-sleek motion design sequence. Pure black background throughout. White-on-black minimal aesthetic. No cuts — one single continuous unbroken visual evolution. Locked-off static center frame, no camera movement. All motion occurs within the subject. Self-luminous white forms on absolute black, no grain, no shadows.\n\n0–1s [ORIGIN]: A single white point materializes at center frame. It pulses once — three concentric rings ripple outward like a heartbeat and dissolve into black.\n\n1–2s [LINE]: The point stretches into a razor-thin white horizontal line extending edge to edge with elastic ease-out motion.\n\n2–4s [GRID → CIRCLE]: The line multiplies into a precise grid of nine parallel horizontal and vertical lines appearing in staggered succession. The grid warps — outer lines curve inward, the structure rotates, straight lines bend into arcs, converging into a perfect geometric circle outline.\n\n4–6s [WIREFRAME → SOLID SPHERE]: The circle extrudes into a 3D wireframe sphere, every latitude and longitude line crisp, slowly rotating on its vertical axis. The wireframe fills in smoothly — dissolving into a solid white surface with a soft specular highlight in the upper-left quadrant.\n\n6–8s [INTERFACE]: The sphere flattens and unfolds into a clean rectangular plane — a minimal phone interface with rounded corners. Abstract UI elements appear inside: status bar, a grid of rounded app icons, home indicator bar. White line art on black.\n\n8–10s [CUBE → BLOOM]: The interface folds inward, collapsing into an isometric wireframe cube that tumbles once. The cube's six faces peel outward simultaneously, each becoming a smooth white elliptical petal — blooming open like a flower in zero gravity.\n\n10–12s [VORTEX]: The flower dissolves into hundreds of tiny white particles orbiting the center in a controlled elliptical vortex, some clockwise, some counterclockwise, each following a precise mathematical path, flickering softly.\n\n12–13s [WATCH]: The particles decelerate and self-organize — converging and snapping into position to assemble the silhouette of a wristwatch: a clean rectangular case outline with lugs, built entirely from particles.\n\n13–14s [COLLAPSE]: The watch dissolves into fluid white ribbons that compress into a single dense white sphere. It pulses once — brighter than before — then collapses rapidly inward to a single brilliant point.\n\n14–15s [LOGO]: The point holds for one silent beat. Then it expands into a clean minimal brand logo — white sans-serif letterforms on black. A single pulse of warm amber light blooms from center behind the logo, fades to black. White text remains.\n\nStyle: luxury tech brand motion identity, Bauhaus-minimalist, mathematical precision. Mood: calm, inevitable, intelligent, premium.",
+    "description": "A single continuous 15-second motion design sequence on pure black — from a single pulsing point through grid, sphere, phone interface, blooming cube, vortex, wristwatch, and final brand logo. Bauhaus-minimalist luxury tech identity.",
+    "description_zh": "15秒纯黑背景单镜头动态设计序列 — 从脉动的单点开始，演化为网格、球体、手机界面、绽放立方体、粒子漩涡、腕表，最终呈现品牌 Logo。包豪斯极简风格的奢华科技品牌识别。",
+    "category": "Creative",
+    "tag": "Creative",
+    "tag_zh": "创意",
+    "tagColor": "#8C4EFF",
+    "model": "Seedance 2.0",
+    "author": "Community",
+    "source": "https://x.com/i/status/2041392542659584302",
+    "video": "videos/motion-design-sequence.mp4",
+    "thumbnail": "assets/thumbnails/motion-design-sequence.jpg",
+    "featured": true,
+    "date": "April 7, 2026"
+  },
+  {
     "id": "astronaut-moon-ski",
     "title": "Astronaut Skiing on the Moon",
     "title_zh": "月球滑雪宇航员",
