@@ -75,9 +75,37 @@
 
 ## 📊 数据统计
 
+<!-- STATS:START -->
 | 提示词总数 | 精选 | 视频 | 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **111** | **11** | **10** | 2026 年 4 月 |
+| **125** | **12** | **24** | 2026 年 10 月 |
+<!-- STATS:END -->
+
+---
+
+<!-- LATEST:START -->
+## 🆕 最新提示词
+
+按时间倒序。完整提示词在 `prompts.json` 和每条提示词的页面里；版权归原作者。
+
+| 日期 | 提示词 | 模型 | 作者 | 备注 |
+|:---|:---|:---|:---|:---|
+| 2026-10-25 | [企鹅米洛和巨型苹果 — 30秒3D动画喜剧](https://seedanceprompt.io/zh/prompts/milo-the-penguin-and-the-giant-apple-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2114340975132950878) | 需要参考图 |
+| 2026-10-23 | [看台恶作剧反转 — 电影感高中青春短片](https://seedanceprompt.io/zh/prompts/bleacher-prank-revenge-cinematic-high-school-teen-drama) | Seedance 2.5 | [@ZorayaAi](https://x.com/ZorayaAi/status/2113617700312559986) |  |
+| 2026-10-20 | [逛街太无聊了 — 3D购物车喜剧](https://seedanceprompt.io/zh/prompts/when-shopping-gets-too-boring-3d-shopping-cart-comedy) | Seedance 2.5 | [@_YasirNFT](https://x.com/_YasirNFT/status/2112447279231602922) | 需要参考图 |
+| 2026-10-17 | [海狸尼布斯和巨型树叶 — 30秒3D雨天喜剧](https://seedanceprompt.io/zh/prompts/nibs-the-beaver-and-the-giant-leaf-30s-3d-rainy-day-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2111428786914984092) | 需要参考图 |
+| 2026-10-15 | [浣熊里科的野餐篮行动 — 30秒3D动画喜剧](https://seedanceprompt.io/zh/prompts/riko-the-raccoon-s-picnic-heist-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110718876459979208) | 需要参考图 |
+| 2026-10-14 | [熊猫尼可过冰湖 — 30秒3D动画喜剧](https://seedanceprompt.io/zh/prompts/niko-the-panda-and-the-frozen-pond-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110355993255366802) | 需要参考图 |
+| 2026-10-13 | [小熊猫科达和失控的大桃子 — 30秒3D冒险喜剧](https://seedanceprompt.io/zh/prompts/koda-the-red-panda-and-the-runaway-peach-30s-3d-adventure-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2109993586951663626) | 需要参考图 |
+| 2026-10-12 | [Seoa 和她的猫 — 21:9 超宽画幅30秒科幻情感短片](https://seedanceprompt.io/zh/prompts/seoa-and-her-cat-30s-emotional-sci-fi-drama-in-21-9) | Seedance 2.5 | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2109587461152395464) |  |
+| 2026-10-11 | [地铁超能力救援 — 24秒韩式动作大片场景](https://seedanceprompt.io/zh/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
+| 2026-10-10 | [纽约一日自拍 Vlog — 角色一致性](https://seedanceprompt.io/zh/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | 需要参考图 |
+| 2026-10-06 | [90年代美式餐厅时间静止 — 慢动作早餐打翻](https://seedanceprompt.io/zh/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | 需要参考图 |
+| 2026-10-04 | [磁悬浮列车穿越奇幻世界 — 30秒第一人称一镜到底](https://seedanceprompt.io/zh/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
+| 2026-10-03 | [企鹅米洛过丛林急流 — 30秒3D动画喜剧](https://seedanceprompt.io/zh/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | 需要参考图 |
+| 2026-04-09 | [吸血姬变身 — 全能参考提示词](https://seedanceprompt.io/zh/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
+| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/zh/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+<!-- LATEST:END -->
 
 ---
 
@@ -106,11 +134,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/astronaut-moon-ski.mp4">
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">
     <img src="assets/thumbnails/astronaut-moon-ski.jpg" width="700" alt="宇航员月球滑雪">
   </a>
   <br>
-  <a href="videos/astronaut-moon-ski.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 来源</a>
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 来源</a>
 </div>
 
 ---
@@ -132,11 +160,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/vampire-transformation.mp4">
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">
     <img src="assets/thumbnails/vampire-transformation.jpg" width="700" alt="吸血鬼公主变身">
   </a>
   <br>
-  <a href="videos/vampire-transformation.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 来源</a>
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 来源</a>
 </div>
 
 ---
@@ -162,11 +190,11 @@ Morning city ambience, people walking, cars driving, bikes riding.
 ```
 
 <div align="center">
-  <a href="videos/morning-city-ambience.mp4">
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">
     <img src="assets/thumbnails/morning-city-ambience.jpg" width="700" alt="清晨城市氛围">
   </a>
   <br>
-  <a href="videos/morning-city-ambience.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 来源</a>
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 来源</a>
 </div>
 
 ---
@@ -194,11 +222,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/kitkat-hippo-ad.mp4">
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">
     <img src="assets/thumbnails/kitkat-hippo-ad.jpg" width="700" alt="Kit Kat 河马广告">
   </a>
   <br>
-  <a href="videos/kitkat-hippo-ad.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 来源</a>
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 来源</a>
 </div>
 
 ---
@@ -225,11 +253,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/casino-card-flight.mp4">
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">
     <img src="assets/thumbnails/casino-card-flight.jpg" width="700" alt="赌场扑克牌飞行">
   </a>
   <br>
-  <a href="videos/casino-card-flight.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 来源</a>
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 来源</a>
 </div>
 
 ---
@@ -241,7 +269,7 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ### 通过 Pull Request 提交
 
 1. **Fork** 本仓库
-2. 将你的 **视频** 添加到 `videos/`，缩略图添加到 `assets/thumbnails/`
+2. 提供 **视频** 的原帖链接（视频由我们的媒体服务器托管，不放在本仓库），缩略图添加到 `assets/thumbnails/`
 3. 在 `prompts.json` 中 **添加** 你的提示词条目
 4. **提交 PR** — 我们会审核并合并！
 
@@ -293,7 +321,8 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 
 ## 📜 许可证
 
-本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证。你可以自由分享和改编这些提示词，但需要注明出处。
+<!-- LICENSE-NOTE -->
+我们自己整理的部分——标题、描述、分类和本 README——采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。**CC BY 4.0 不覆盖提示词原文和视频**：它们的版权归 X 上的原作者，每一条都附原帖链接。如果你是原作者并希望删除某条内容，请[提 issue](https://github.com/Ericgood/seedance-prompt/issues/new)，我们会下架。
 
 ## 🌐 相关链接
 

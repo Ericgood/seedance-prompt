@@ -75,9 +75,37 @@
 
 ## 📊 統計
 
+<!-- STATS:START -->
 | プロンプト総数 | 注目 | 動画 | 最終更新 |
 |:---:|:---:|:---:|:---:|
-| **111** | **11** | **10** | 2026年4月 |
+| **125** | **12** | **24** | 2026年10月 |
+<!-- STATS:END -->
+
+---
+
+<!-- LATEST:START -->
+## 🆕 最新プロンプト
+
+新しい順。プロンプト全文は `prompts.json` と各プロンプトのページにあります。権利は元の投稿者に帰属します。
+
+| 日付 | プロンプト | モデル | 投稿者 | 備考 |
+|:---|:---|:---|:---|:---|
+| 2026-10-25 | [Milo the Penguin and the Giant Apple — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-and-the-giant-apple-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2114340975132950878) | 参考画像が必要 |
+| 2026-10-23 | [Bleacher Prank Revenge — Cinematic High School Teen Drama](https://seedanceprompt.io/prompts/bleacher-prank-revenge-cinematic-high-school-teen-drama) | Seedance 2.5 | [@ZorayaAi](https://x.com/ZorayaAi/status/2113617700312559986) |  |
+| 2026-10-20 | [When Shopping Gets Too Boring — 3D Shopping Cart Comedy](https://seedanceprompt.io/prompts/when-shopping-gets-too-boring-3d-shopping-cart-comedy) | Seedance 2.5 | [@_YasirNFT](https://x.com/_YasirNFT/status/2112447279231602922) | 参考画像が必要 |
+| 2026-10-17 | [Nibs the Beaver and the Giant Leaf — 30s 3D Rainy Day Comedy](https://seedanceprompt.io/prompts/nibs-the-beaver-and-the-giant-leaf-30s-3d-rainy-day-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2111428786914984092) | 参考画像が必要 |
+| 2026-10-15 | [Riko the Raccoon's Picnic Heist — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/riko-the-raccoon-s-picnic-heist-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110718876459979208) | 参考画像が必要 |
+| 2026-10-14 | [Niko the Panda and the Frozen Pond — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/niko-the-panda-and-the-frozen-pond-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110355993255366802) | 参考画像が必要 |
+| 2026-10-13 | [Koda the Red Panda and the Runaway Peach — 30s 3D Adventure Comedy](https://seedanceprompt.io/prompts/koda-the-red-panda-and-the-runaway-peach-30s-3d-adventure-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2109993586951663626) | 参考画像が必要 |
+| 2026-10-12 | [Seoa and Her Cat — 30s Emotional Sci-Fi Drama in 21:9](https://seedanceprompt.io/prompts/seoa-and-her-cat-30s-emotional-sci-fi-drama-in-21-9) | Seedance 2.5 | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2109587461152395464) |  |
+| 2026-10-11 | [Subway Supernatural Rescue — 24s Korean Action Movie Scene](https://seedanceprompt.io/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
+| 2026-10-10 | [A Day in New York Selfie Vlog — Consistent Character](https://seedanceprompt.io/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | 参考画像が必要 |
+| 2026-10-06 | [Frozen Time in a 1990s Diner — Slow-Motion Breakfast Spill](https://seedanceprompt.io/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | 参考画像が必要 |
+| 2026-10-04 | [Maglev Ride Through Impossible Worlds — 30s First-Person One-Shot](https://seedanceprompt.io/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
+| 2026-10-03 | [Milo the Penguin Crosses the Jungle River — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | 参考画像が必要 |
+| 2026-04-09 | [Vampire Princess Transformation — Full Reference Prompt](https://seedanceprompt.io/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
+| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+<!-- LATEST:END -->
 
 ---
 
@@ -106,11 +134,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/astronaut-moon-ski.mp4">
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">
     <img src="assets/thumbnails/astronaut-moon-ski.jpg" width="700" alt="月面スキーをする宇宙飛行士">
   </a>
   <br>
-  <a href="videos/astronaut-moon-ski.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 ソース</a>
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 ソース</a>
 </div>
 
 ---
@@ -132,11 +160,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/vampire-transformation.mp4">
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">
     <img src="assets/thumbnails/vampire-transformation.jpg" width="700" alt="ヴァンパイアプリンセスの変身">
   </a>
   <br>
-  <a href="videos/vampire-transformation.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 ソース</a>
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 ソース</a>
 </div>
 
 ---
@@ -162,11 +190,11 @@ Morning city ambience, people walking, cars driving, bikes riding.
 ```
 
 <div align="center">
-  <a href="videos/morning-city-ambience.mp4">
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">
     <img src="assets/thumbnails/morning-city-ambience.jpg" width="700" alt="朝の街の風景">
   </a>
   <br>
-  <a href="videos/morning-city-ambience.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 ソース</a>
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 ソース</a>
 </div>
 
 ---
@@ -194,11 +222,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/kitkat-hippo-ad.mp4">
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">
     <img src="assets/thumbnails/kitkat-hippo-ad.jpg" width="700" alt="Kit Kat ヒッポ広告">
   </a>
   <br>
-  <a href="videos/kitkat-hippo-ad.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 ソース</a>
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 ソース</a>
 </div>
 
 ---
@@ -225,11 +253,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/casino-card-flight.mp4">
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">
     <img src="assets/thumbnails/casino-card-flight.jpg" width="700" alt="カジノポーカーカードの飛行">
   </a>
   <br>
-  <a href="videos/casino-card-flight.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 ソース</a>
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">📥 動画をダウンロード</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 ソース</a>
 </div>
 
 ---
@@ -241,7 +269,7 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ### Pull Request で投稿
 
 1. このリポジトリを **Fork** する
-2. 動画を `videos/` に、サムネイルを `assets/thumbnails/` に **追加**
+2. 動画は元の投稿の URL を **記載**（動画は当サイトのメディアサーバーで配信し、このリポジトリには置きません）、サムネイルを `assets/thumbnails/` に追加
 3. `prompts.json` にプロンプトエントリを **追記**
 4. **PR を提出** — レビューしてマージします！
 
@@ -293,7 +321,8 @@ PR を使いたくない場合は、[Issue を作成](https://github.com/Ericgoo
 
 ## 📜 ライセンス
 
-このプロジェクトは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ライセンスの下で公開されています。適切なクレジットを表示すれば、プロンプトの共有・改変は自由です。
+<!-- LICENSE-NOTE -->
+当プロジェクトが作成した部分（タイトル、説明、カテゴリ、この README）は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) でライセンスされています。**CC BY 4.0 はプロンプト本文と動画には適用されません**。これらの権利は X の元の投稿者に帰属し、各エントリに元の投稿へのリンクがあります。投稿者の方で削除をご希望の場合は [issue を作成](https://github.com/Ericgood/seedance-prompt/issues/new)してください。
 
 ## 🌐 リンク
 

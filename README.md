@@ -97,9 +97,37 @@ Uses a **Flow Matching framework** instead of traditional Gaussian diffusion, ac
 
 ## 📊 Stats
 
+<!-- STATS:START -->
 | Total Prompts | Featured | Videos | Last Updated |
 |:---:|:---:|:---:|:---:|
-| **111** | **11** | **10** | April 2026 |
+| **125** | **12** | **24** | October 2026 |
+<!-- STATS:END -->
+
+---
+
+<!-- LATEST:START -->
+## 🆕 Latest Prompts
+
+Newest first. Full prompt text is in `prompts.json` and on each prompt page; rights stay with the original author.
+
+| Date | Prompt | Model | Author | Notes |
+|:---|:---|:---|:---|:---|
+| 2026-10-25 | [Milo the Penguin and the Giant Apple — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-and-the-giant-apple-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2114340975132950878) | Needs reference image |
+| 2026-10-23 | [Bleacher Prank Revenge — Cinematic High School Teen Drama](https://seedanceprompt.io/prompts/bleacher-prank-revenge-cinematic-high-school-teen-drama) | Seedance 2.5 | [@ZorayaAi](https://x.com/ZorayaAi/status/2113617700312559986) |  |
+| 2026-10-20 | [When Shopping Gets Too Boring — 3D Shopping Cart Comedy](https://seedanceprompt.io/prompts/when-shopping-gets-too-boring-3d-shopping-cart-comedy) | Seedance 2.5 | [@_YasirNFT](https://x.com/_YasirNFT/status/2112447279231602922) | Needs reference image |
+| 2026-10-17 | [Nibs the Beaver and the Giant Leaf — 30s 3D Rainy Day Comedy](https://seedanceprompt.io/prompts/nibs-the-beaver-and-the-giant-leaf-30s-3d-rainy-day-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2111428786914984092) | Needs reference image |
+| 2026-10-15 | [Riko the Raccoon's Picnic Heist — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/riko-the-raccoon-s-picnic-heist-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110718876459979208) | Needs reference image |
+| 2026-10-14 | [Niko the Panda and the Frozen Pond — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/niko-the-panda-and-the-frozen-pond-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110355993255366802) | Needs reference image |
+| 2026-10-13 | [Koda the Red Panda and the Runaway Peach — 30s 3D Adventure Comedy](https://seedanceprompt.io/prompts/koda-the-red-panda-and-the-runaway-peach-30s-3d-adventure-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2109993586951663626) | Needs reference image |
+| 2026-10-12 | [Seoa and Her Cat — 30s Emotional Sci-Fi Drama in 21:9](https://seedanceprompt.io/prompts/seoa-and-her-cat-30s-emotional-sci-fi-drama-in-21-9) | Seedance 2.5 | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2109587461152395464) |  |
+| 2026-10-11 | [Subway Supernatural Rescue — 24s Korean Action Movie Scene](https://seedanceprompt.io/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
+| 2026-10-10 | [A Day in New York Selfie Vlog — Consistent Character](https://seedanceprompt.io/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | Needs reference image |
+| 2026-10-06 | [Frozen Time in a 1990s Diner — Slow-Motion Breakfast Spill](https://seedanceprompt.io/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | Needs reference image |
+| 2026-10-04 | [Maglev Ride Through Impossible Worlds — 30s First-Person One-Shot](https://seedanceprompt.io/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
+| 2026-10-03 | [Milo the Penguin Crosses the Jungle River — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | Needs reference image |
+| 2026-04-09 | [Vampire Princess Transformation — Full Reference Prompt](https://seedanceprompt.io/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
+| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+<!-- LATEST:END -->
 
 ---
 
@@ -128,11 +156,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/astronaut-moon-ski.mp4">
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">
     <img src="assets/thumbnails/astronaut-moon-ski.jpg" width="700" alt="Astronaut Skiing on the Moon">
   </a>
   <br>
-  <a href="videos/astronaut-moon-ski.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 Source</a>
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 Source</a>
 </div>
 
 ---
@@ -161,11 +189,11 @@ dark red clouds, bats in slow-motion flight.
 ```
 
 <div align="center">
-  <a href="videos/vampire-transformation.mp4">
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">
     <img src="assets/thumbnails/vampire-transformation.jpg" width="700" alt="Vampire Princess Transformation">
   </a>
   <br>
-  <a href="videos/vampire-transformation.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 Source</a>
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 Source</a>
 </div>
 
 ---
@@ -191,11 +219,11 @@ Morning city ambience, people walking, cars driving, bikes riding.
 ```
 
 <div align="center">
-  <a href="videos/morning-city-ambience.mp4">
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">
     <img src="assets/thumbnails/morning-city-ambience.jpg" width="700" alt="Morning City Ambience">
   </a>
   <br>
-  <a href="videos/morning-city-ambience.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 Source</a>
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 Source</a>
 </div>
 
 ---
@@ -223,11 +251,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/kitkat-hippo-ad.mp4">
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">
     <img src="assets/thumbnails/kitkat-hippo-ad.jpg" width="700" alt="Kit Kat Hippo Ad">
   </a>
   <br>
-  <a href="videos/kitkat-hippo-ad.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 Source</a>
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 Source</a>
 </div>
 
 ---
@@ -255,11 +283,11 @@ Realistic style, cinematic texture, high-speed photography, dramatic lighting.
 ```
 
 <div align="center">
-  <a href="videos/casino-card-flight.mp4">
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">
     <img src="assets/thumbnails/casino-card-flight.jpg" width="700" alt="Casino Poker Card Flight">
   </a>
   <br>
-  <a href="videos/casino-card-flight.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 Source</a>
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">📥 Download Video</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 Source</a>
 </div>
 
 ---
@@ -271,7 +299,7 @@ We welcome prompt contributions from everyone!
 ### Submit via Pull Request
 
 1. **Fork** this repository
-2. **Add your video** to `videos/` and thumbnail to `assets/thumbnails/`
+2. **Link your video** (the source post URL — we host videos on our media server, not in this repo) and add the thumbnail to `assets/thumbnails/`
 3. **Update** `prompts.json` with your prompt entry
 4. **Submit a PR** — we'll review and merge it!
 
@@ -323,7 +351,8 @@ Each entry in `prompts.json`:
 
 ## 📜 License
 
-This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the prompts, as long as you give appropriate credit.
+<!-- LICENSE-NOTE -->
+Our own curation — titles, descriptions, categories and this README — is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). **CC BY 4.0 does not cover the prompt texts or the videos**: they belong to their original authors on X, and every entry links to the source post. If you are an author and want an entry removed, [open an issue](https://github.com/Ericgood/seedance-prompt/issues/new) and we will take it down.
 
 ## 🌐 Links
 

@@ -75,9 +75,37 @@
 
 ## 📊 통계
 
+<!-- STATS:START -->
 | 총 프롬프트 수 | 추천 | 영상 | 최종 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **111** | **11** | **10** | 2026년 4월 |
+| **125** | **12** | **24** | 2026년 10월 |
+<!-- STATS:END -->
+
+---
+
+<!-- LATEST:START -->
+## 🆕 최신 프롬프트
+
+최신순. 프롬프트 전문은 `prompts.json`과 각 프롬프트 페이지에 있으며, 권리는 원작자에게 있습니다.
+
+| 날짜 | 프롬프트 | 모델 | 작성자 | 비고 |
+|:---|:---|:---|:---|:---|
+| 2026-10-25 | [Milo the Penguin and the Giant Apple — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-and-the-giant-apple-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2114340975132950878) | 참조 이미지 필요 |
+| 2026-10-23 | [Bleacher Prank Revenge — Cinematic High School Teen Drama](https://seedanceprompt.io/prompts/bleacher-prank-revenge-cinematic-high-school-teen-drama) | Seedance 2.5 | [@ZorayaAi](https://x.com/ZorayaAi/status/2113617700312559986) |  |
+| 2026-10-20 | [When Shopping Gets Too Boring — 3D Shopping Cart Comedy](https://seedanceprompt.io/prompts/when-shopping-gets-too-boring-3d-shopping-cart-comedy) | Seedance 2.5 | [@_YasirNFT](https://x.com/_YasirNFT/status/2112447279231602922) | 참조 이미지 필요 |
+| 2026-10-17 | [Nibs the Beaver and the Giant Leaf — 30s 3D Rainy Day Comedy](https://seedanceprompt.io/prompts/nibs-the-beaver-and-the-giant-leaf-30s-3d-rainy-day-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2111428786914984092) | 참조 이미지 필요 |
+| 2026-10-15 | [Riko the Raccoon's Picnic Heist — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/riko-the-raccoon-s-picnic-heist-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110718876459979208) | 참조 이미지 필요 |
+| 2026-10-14 | [Niko the Panda and the Frozen Pond — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/niko-the-panda-and-the-frozen-pond-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2110355993255366802) | 참조 이미지 필요 |
+| 2026-10-13 | [Koda the Red Panda and the Runaway Peach — 30s 3D Adventure Comedy](https://seedanceprompt.io/prompts/koda-the-red-panda-and-the-runaway-peach-30s-3d-adventure-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2109993586951663626) | 참조 이미지 필요 |
+| 2026-10-12 | [Seoa and Her Cat — 30s Emotional Sci-Fi Drama in 21:9](https://seedanceprompt.io/prompts/seoa-and-her-cat-30s-emotional-sci-fi-drama-in-21-9) | Seedance 2.5 | [@Alina_with_Ai](https://x.com/Alina_with_Ai/status/2109587461152395464) |  |
+| 2026-10-11 | [Subway Supernatural Rescue — 24s Korean Action Movie Scene](https://seedanceprompt.io/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
+| 2026-10-10 | [A Day in New York Selfie Vlog — Consistent Character](https://seedanceprompt.io/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | 참조 이미지 필요 |
+| 2026-10-06 | [Frozen Time in a 1990s Diner — Slow-Motion Breakfast Spill](https://seedanceprompt.io/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | 참조 이미지 필요 |
+| 2026-10-04 | [Maglev Ride Through Impossible Worlds — 30s First-Person One-Shot](https://seedanceprompt.io/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
+| 2026-10-03 | [Milo the Penguin Crosses the Jungle River — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | 참조 이미지 필요 |
+| 2026-04-09 | [Vampire Princess Transformation — Full Reference Prompt](https://seedanceprompt.io/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
+| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+<!-- LATEST:END -->
 
 ---
 
@@ -106,11 +134,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/astronaut-moon-ski.mp4">
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">
     <img src="assets/thumbnails/astronaut-moon-ski.jpg" width="700" alt="달에서 스키 타는 우주비행사">
   </a>
   <br>
-  <a href="videos/astronaut-moon-ski.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 출처</a>
+  <a href="https://media.seedanceprompt.io/videos/astronaut-moon-ski.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2041855477617713535">🐦 출처</a>
 </div>
 
 ---
@@ -132,11 +160,11 @@ black sky. Raw sunlight, crushed shadows, no fill. 8K photorealistic. No logos o
 ```
 
 <div align="center">
-  <a href="videos/vampire-transformation.mp4">
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">
     <img src="assets/thumbnails/vampire-transformation.jpg" width="700" alt="뱀파이어 공주의 변신">
   </a>
   <br>
-  <a href="videos/vampire-transformation.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 출처</a>
+  <a href="https://media.seedanceprompt.io/videos/vampire-transformation.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2042124667910008998">🐦 출처</a>
 </div>
 
 ---
@@ -162,11 +190,11 @@ Morning city ambience, people walking, cars driving, bikes riding.
 ```
 
 <div align="center">
-  <a href="videos/morning-city-ambience.mp4">
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">
     <img src="assets/thumbnails/morning-city-ambience.jpg" width="700" alt="아침 도시 풍경">
   </a>
   <br>
-  <a href="videos/morning-city-ambience.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 출처</a>
+  <a href="https://media.seedanceprompt.io/videos/morning-city-ambience.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2038619621419569552">🐦 출처</a>
 </div>
 
 ---
@@ -194,11 +222,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/kitkat-hippo-ad.mp4">
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">
     <img src="assets/thumbnails/kitkat-hippo-ad.jpg" width="700" alt="Kit Kat 하마 광고">
   </a>
   <br>
-  <a href="videos/kitkat-hippo-ad.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 출처</a>
+  <a href="https://media.seedanceprompt.io/videos/kitkat-hippo-ad.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2041236549317378556">🐦 출처</a>
 </div>
 
 ---
@@ -225,11 +253,11 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ```
 
 <div align="center">
-  <a href="videos/casino-card-flight.mp4">
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">
     <img src="assets/thumbnails/casino-card-flight.jpg" width="700" alt="카지노 포커 카드 비행">
   </a>
   <br>
-  <a href="videos/casino-card-flight.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 출처</a>
+  <a href="https://media.seedanceprompt.io/videos/casino-card-flight.mp4">📥 영상 다운로드</a> ・ <a href="https://x.com/i/status/2040738604188623155">🐦 출처</a>
 </div>
 
 ---
@@ -241,7 +269,7 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 ### Pull Request로 제출
 
 1. 이 저장소를 **Fork**
-2. 영상을 `videos/`에, 썸네일을 `assets/thumbnails/`에 **추가**
+2. 영상은 원본 게시물 URL을 **기재**(영상은 저희 미디어 서버에서 호스팅하며 이 저장소에는 두지 않습니다)하고, 썸네일을 `assets/thumbnails/`에 추가
 3. `prompts.json`에 프롬프트 항목을 **작성**
 4. **PR 제출** — 검토 후 머지하겠습니다!
 
@@ -293,7 +321,8 @@ PR이 번거로우시다면 [Issue를 생성](https://github.com/Ericgood/seedan
 
 ## 📜 라이선스
 
-이 프로젝트는 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 라이선스로 공개됩니다. 적절한 크레딧을 표시하면 프롬프트를 자유롭게 공유하고 수정할 수 있습니다.
+<!-- LICENSE-NOTE -->
+저희가 직접 정리한 부분(제목, 설명, 카테고리, 이 README)은 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 라이선스를 따릅니다. **CC BY 4.0은 프롬프트 원문과 영상에는 적용되지 않습니다**. 이들의 권리는 X의 원작자에게 있으며, 모든 항목에 원본 게시물 링크가 있습니다. 원작자로서 삭제를 원하시면 [issue를 남겨 주세요](https://github.com/Ericgood/seedance-prompt/issues/new).
 
 ## 🌐 링크
 
