@@ -319,6 +319,10 @@ transitioning seamlessly to rich amber interior. Anamorphic look. Deadpan surrea
 
 ---
 
+## ⚠️ 声明
+
+Seedance Prompt 是独立的非官方提示词库，与字节跳动（ByteDance）和 MiniMax 均无隶属、背书或赞助关系。Seedance、MiniMax 是其各自权利人的商标。
+
 ## 📜 许可证
 
 <!-- LICENSE-NOTE -->

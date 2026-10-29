@@ -319,6 +319,10 @@ PR を使いたくない場合は、[Issue を作成](https://github.com/Ericgoo
 
 ---
 
+## ⚠️ 免責事項
+
+Seedance Prompt は独立した非公式のプロンプトライブラリです。ByteDance および MiniMax との提携・承認・後援関係はありません。Seedance と MiniMax は各権利者の商標です。
+
 ## 📜 ライセンス
 
 <!-- LICENSE-NOTE -->

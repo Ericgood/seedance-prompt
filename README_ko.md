@@ -319,6 +319,10 @@ PR이 번거로우시다면 [Issue를 생성](https://github.com/Ericgood/seedan
 
 ---
 
+## ⚠️ 고지
+
+Seedance Prompt는 독립적인 비공식 프롬프트 라이브러리입니다. ByteDance 및 MiniMax와 제휴, 보증 또는 후원 관계가 없습니다. Seedance와 MiniMax는 각 권리자의 상표입니다.
+
 ## 📜 라이선스
 
 <!-- LICENSE-NOTE -->

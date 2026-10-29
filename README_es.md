@@ -319,6 +319,10 @@ Cada entrada en `prompts.json`:
 
 ---
 
+## ⚠️ Aviso
+
+Seedance Prompt es una biblioteca de prompts independiente y no oficial. No tiene afiliación, respaldo ni patrocinio de ByteDance ni de MiniMax. Seedance y MiniMax son marcas de sus respectivos titulares.
+
 ## 📜 Licencia
 
 <!-- LICENSE-NOTE -->

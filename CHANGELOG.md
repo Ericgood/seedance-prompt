@@ -6,6 +6,10 @@
 
 ## [未发布]
 
+### 变更
+
+- 2026-10-29 08:47 -0700 五种语言 README 加入「声明」一节：本库为独立非官方提示词库，与 ByteDance、MiniMax 均无关系（网站同步加入 MiniMax 后的口径）。
+
 ## [v0.1.0] - 2026-10-29 06:03 -0700
 
 基线版本：接入维护规范时的项目快照。GitHub Release：https://github.com/Ericgood/seedance-prompt/releases/tag/v0.1.0

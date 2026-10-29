@@ -349,6 +349,10 @@ Each entry in `prompts.json`:
 
 ---
 
+## ⚠️ Disclaimer
+
+Seedance Prompt is an independent, unofficial prompt library. It is not affiliated with, endorsed by or sponsored by ByteDance or MiniMax. Seedance and MiniMax are trademarks of their respective owners.
+
 ## 📜 License
 
 <!-- LICENSE-NOTE -->
