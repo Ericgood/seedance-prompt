@@ -6,8 +6,14 @@
 
 ## [未发布]
 
+### 新增
+
+- 2026-10-29 10:16 -0700 收录 20 条 MiniMax H3 提示词（`model` 为「MiniMax H3」），`prompts.json` 共 145 条；补齐 23 张缩略图（20 条 H3，另外 3 条是原先缺失的 2966 / 2899 / 2825）。Owner 10-30 决定 H3 放进现有仓库，仓库名不改。
+- 2026-10-29 10:16 -0700 五种语言 README 加「MiniMax H3 Prompts」分区，链到 https://seedanceprompt.io/prompts/model/minimax-h3 。
+
 ### 变更
 
+- 2026-10-29 10:16 -0700 五种语言 README 开头的定位句改为 Seedance 和 MiniMax H3 视频提示词；「Latest Prompts」和统计块按网站库重新生成。GitHub 仓库简介改为包含 MiniMax H3，并加 topics：seedance、minimax-h3、hailuo、ai-video、text-to-video、prompts。
 - 2026-10-29 08:47 -0700 五种语言 README 加入「声明」一节：本库为独立非官方提示词库，与 ByteDance、MiniMax 均无关系（网站同步加入 MiniMax 后的口径）。
 
 ## [v0.1.0] - 2026-10-29 06:03 -0700

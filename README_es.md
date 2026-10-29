@@ -5,7 +5,7 @@
 
   # 🎬 Prompts para Seedance 2.0
 
-  **Coleccion curada por la comunidad de prompts para generacion de video con [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) de ByteDance**
+  **Colección curada por la comunidad de prompts de vídeo para [Seedance](https://seed.bytedance.com/en/seedance2_0) (ByteDance) y [MiniMax H3](https://seedanceprompt.io/prompts/model/minimax-h3)**
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   [![GitHub stars](https://img.shields.io/github/stars/Ericgood/seedance-prompt?style=social)](https://github.com/Ericgood/seedance-prompt)
@@ -73,12 +73,16 @@
 
 ---
 
+## 🎞️ Prompts de MiniMax H3
+
+Prompts reales de MiniMax H3 (también llamado Hailuo H3) compartidos por creadores en X, cada uno con el vídeo que generó y un enlace a la publicación original. Míralos en **[seedanceprompt.io/es/prompts/model/minimax-h3](https://seedanceprompt.io/es/prompts/model/minimax-h3)** o filtra `prompts.json` por `"model": "MiniMax H3"`.
+
 ## 📊 Estadisticas
 
 <!-- STATS:START -->
 | Total de Prompts | Destacados | Videos | Ultima Actualizacion |
 |:---:|:---:|:---:|:---:|
-| **125** | **12** | **24** | octubre de 2026 |
+| **145** | **12** | **44** | octubre de 2026 |
 <!-- STATS:END -->
 
 ---
@@ -101,10 +105,10 @@ Del más nuevo al más antiguo. El texto completo está en `prompts.json` y en l
 | 2026-10-11 | [Subway Supernatural Rescue — 24s Korean Action Movie Scene](https://seedanceprompt.io/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
 | 2026-10-10 | [A Day in New York Selfie Vlog — Consistent Character](https://seedanceprompt.io/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | Requiere imagen de referencia |
 | 2026-10-06 | [Frozen Time in a 1990s Diner — Slow-Motion Breakfast Spill](https://seedanceprompt.io/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | Requiere imagen de referencia |
+| 2026-10-05 | [Woman Meets a Gentle White Lion on a Park Bench at Dusk](https://seedanceprompt.io/prompts/woman-meets-a-gentle-white-lion-on-a-park-bench-at-dusk) | MiniMax H3 | [@laviniavelle](https://x.com/laviniavelle/status/2106981798001680517) |  |
 | 2026-10-04 | [Maglev Ride Through Impossible Worlds — 30s First-Person One-Shot](https://seedanceprompt.io/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
 | 2026-10-03 | [Milo the Penguin Crosses the Jungle River — 30s 3D Animated Comedy](https://seedanceprompt.io/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | Requiere imagen de referencia |
-| 2026-04-09 | [Vampire Princess Transformation — Full Reference Prompt](https://seedanceprompt.io/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
-| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+| 2026-10-02 | [Romantic Evening Perfume Commercial in Seven Scenes](https://seedanceprompt.io/prompts/romantic-evening-perfume-commercial-in-seven-scenes) | MiniMax H3 | [@CaliraVal](https://x.com/CaliraVal/status/2105895582275657852) |  |
 <!-- LATEST:END -->
 
 ---

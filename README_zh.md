@@ -5,7 +5,7 @@
 
   # 🎬 Seedance 2.0 提示词合集
 
-  **社区精选的 [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) 视频生成提示词库（ByteDance 出品）**
+  **社区精选的 [Seedance](https://seed.bytedance.com/en/seedance2_0)（ByteDance）和 [MiniMax H3](https://seedanceprompt.io/prompts/model/minimax-h3) 视频提示词库**
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   [![GitHub stars](https://img.shields.io/github/stars/Ericgood/seedance-prompt?style=social)](https://github.com/Ericgood/seedance-prompt)
@@ -73,12 +73,16 @@
 
 ---
 
+## 🎞️ MiniMax H3 提示词
+
+收录创作者在 X 上分享的 MiniMax H3（又名海螺 H3 / Hailuo H3）真实提示词，每条都附生成的视频和原帖链接。在 **[seedanceprompt.io/zh/prompts/model/minimax-h3](https://seedanceprompt.io/zh/prompts/model/minimax-h3)** 浏览，或在 `prompts.json` 里按 `"model": "MiniMax H3"` 筛选。
+
 ## 📊 数据统计
 
 <!-- STATS:START -->
 | 提示词总数 | 精选 | 视频 | 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **125** | **12** | **24** | 2026 年 10 月 |
+| **145** | **12** | **44** | 2026 年 10 月 |
 <!-- STATS:END -->
 
 ---
@@ -101,10 +105,10 @@
 | 2026-10-11 | [地铁超能力救援 — 24秒韩式动作大片场景](https://seedanceprompt.io/zh/prompts/subway-supernatural-rescue-24s-korean-action-movie-scene) | Seedance 2.5 | [@Arzoo12sh](https://x.com/Arzoo12sh/status/2109234469832192156) |  |
 | 2026-10-10 | [纽约一日自拍 Vlog — 角色一致性](https://seedanceprompt.io/zh/prompts/a-day-in-new-york-selfie-vlog-consistent-character) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2108809695087710283) | 需要参考图 |
 | 2026-10-06 | [90年代美式餐厅时间静止 — 慢动作早餐打翻](https://seedanceprompt.io/zh/prompts/frozen-time-in-a-1990s-diner-slow-motion-breakfast-spill) | Seedance 2.5 | [@EvoLinkAi](https://x.com/EvoLinkAi/status/2107436379575840895) | 需要参考图 |
+| 2026-10-05 | [黄昏公园长椅上，女子遇见温柔的白狮](https://seedanceprompt.io/zh/prompts/woman-meets-a-gentle-white-lion-on-a-park-bench-at-dusk) | MiniMax H3 | [@laviniavelle](https://x.com/laviniavelle/status/2106981798001680517) |  |
 | 2026-10-04 | [磁悬浮列车穿越奇幻世界 — 30秒第一人称一镜到底](https://seedanceprompt.io/zh/prompts/maglev-ride-through-impossible-worlds-30s-first-person-one-shot) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106710882567037394) |  |
 | 2026-10-03 | [企鹅米洛过丛林急流 — 30秒3D动画喜剧](https://seedanceprompt.io/zh/prompts/milo-the-penguin-crosses-the-jungle-river-30s-3d-animated-comedy) | Seedance 2.5 | [@HeyAbhishek](https://x.com/HeyAbhishek/status/2106369769956065518) | 需要参考图 |
-| 2026-04-09 | [吸血姬变身 — 全能参考提示词](https://seedanceprompt.io/zh/prompts/vampire-princess-transformation-full-reference-prompt) | Seedance 2.0 | [Community](https://x.com/i/status/2042124667910008998) |  |
-| 2026-04-09 | [Man vs. Sea Monster in a Violent Storm](https://seedanceprompt.io/zh/prompts/man-vs-sea-monster-in-a-violent-storm) | Seedance 2.0 | [Heisenberg](https://x.com/rovvmut_/status/2042123163325374788) |  |
+| 2026-10-02 | [浪漫夜晚主题香水广告（七个场景）](https://seedanceprompt.io/zh/prompts/romantic-evening-perfume-commercial-in-seven-scenes) | MiniMax H3 | [@CaliraVal](https://x.com/CaliraVal/status/2105895582275657852) |  |
 <!-- LATEST:END -->
 
 ---
