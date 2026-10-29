@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="Seedance Prompt Logo" width="200">
 
-  # 🎬 Seedance 2.0 提示词合集
+  # 🎬 Seedance & MiniMax H3 视频提示词合集
 
   **社区精选的 [Seedance](https://seed.bytedance.com/en/seedance2_0)（ByteDance）和 [MiniMax H3](https://seedanceprompt.io/prompts/model/minimax-h3) 视频提示词库**
 

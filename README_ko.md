@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="Seedance Prompt Logo" width="200">
 
-  # 🎬 Seedance 2.0 프롬프트 모음
+  # 🎬 Seedance & MiniMax H3 영상 프롬프트 모음
 
   **[Seedance](https://seed.bytedance.com/en/seedance2_0)(ByteDance)와 [MiniMax H3](https://seedanceprompt.io/prompts/model/minimax-h3)를 위한 커뮤니티 큐레이션 영상 프롬프트 컬렉션**
 

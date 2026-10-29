@@ -13,6 +13,7 @@
 
 ### 变更
 
+- 2026-10-29 10:18 -0700 五种语言 README 大标题改为「Seedance & MiniMax H3 Video Prompts」（各语言照译），库里已有 2.5 和 H3，原标题「Seedance 2.0 Prompts」不准确。
 - 2026-10-29 10:16 -0700 五种语言 README 开头的定位句改为 Seedance 和 MiniMax H3 视频提示词；「Latest Prompts」和统计块按网站库重新生成。GitHub 仓库简介改为包含 MiniMax H3，并加 topics：seedance、minimax-h3、hailuo、ai-video、text-to-video、prompts。
 - 2026-10-29 08:47 -0700 五种语言 README 加入「声明」一节：本库为独立非官方提示词库，与 ByteDance、MiniMax 均无关系（网站同步加入 MiniMax 后的口径）。
 

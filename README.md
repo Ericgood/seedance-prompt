@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="Seedance Prompt Logo" width="200">
 
-  # 🎬 Seedance 2.0 Prompts
+  # 🎬 Seedance & MiniMax H3 Video Prompts
 
   **A community-curated collection of video prompts for [Seedance](https://seed.bytedance.com/en/seedance2_0) (ByteDance) and [MiniMax H3](https://seedanceprompt.io/prompts/model/minimax-h3)**
 
